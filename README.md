@@ -21,8 +21,10 @@ wget [download_link]
 
 ```python3 data-partition.py```
 
-:large_orange_diamond: *arg1* : mode -> all/ALL (recommended), image/IMAGE, annotation/ANNOTATION
+:large_orange_diamond: *arg1* : mode -> ***all/ALL (recommended), image/IMAGE, annotation/ANNOTATION***
 
 :large_blue_diamond: *arg2* : data training amount
 
-:large_orange_diamond: *arg3* : data training ratio (less than 1)
+:large_orange_diamond: *arg3* : data training ratio (***less than 1***)
+
+![#6a097d](https://via.placeholder.com/15/6a097d/000000?text=+) Step 5 : PASCAL VOC Conversion
