@@ -16,3 +16,11 @@ wget [download_link]
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Step 3 : Synchronize dataset
 
 ```python3 sync-dataset.py```
+
+![#ee91bc](https://via.placeholder.com/15/ee91bc/000000?text=+) Step 4 : Partition dataset
+
+```python3 data-partition.py```
+
+:large_orange_diamond: *arg1*
+:large_blue_diamond: *arg2*
+:large_orange_diamond: *arg3*
