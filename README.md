@@ -1,7 +1,7 @@
 # lr-subia
 Project SUBIA - La Rochelle, France
 
-## 6 steps to deploy the project
+## 8 steps to deploy the project
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Step 1 : Download the dataset [here](https://www.dropbox.com/s/8ftwerhvbrm84ni/subia_dataset.zip) and move it into the project repo
 
@@ -28,3 +28,9 @@ wget [download_link]
 :large_orange_diamond: *arg3* : data training ratio (***less than 1***)
 
 ![#6a097d](https://via.placeholder.com/15/6a097d/000000?text=+) Step 5 : PASCAL VOC Conversion
+
+```python3 text2xml.py```
+
+![#a27557](https://via.placeholder.com/15/a27557/000000?text=+) Step 6 : CSV Conversion
+
+```python3 xml2csv.py```
