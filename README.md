@@ -47,7 +47,7 @@ wget [download_link]
 
 ![#226F54](https://via.placeholder.com/15/226F54/000000?text=+) Step 8 : Data visualization
 
-```python data-analyse.py```
+```python3 data-analyse.py```
 
 You can find my report (French version) [here](https://www.dropbox.com/s/dqr7l0dontwr18h/%5BRapport%5D.pdf) or in this Git repo
 
