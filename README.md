@@ -40,9 +40,15 @@ wget [download_link]
 ```python3 generate_tfrecord.py ---csv_input=[train_or_test_csv] --image_dir=[train_or_test_image_repo] --output_path=XXX.record```
 
 :large_orange_diamond: *train_or_test_csv* : CSV of training or testing (step 6)
+
 :large_blue_diamond: *train_or_test_image_repo* : image training or testing repo
+
 :large_orange_diamond: *XXX* : name of TFRecord (e.g train.record)
 
 ![#226F54](https://via.placeholder.com/15/226F54/000000?text=+) Step 8 : Data visualization
 
 ```python data-analyse.py```
+
+You can find my report (French version) [here] (https://www.dropbox.com/s/dqr7l0dontwr18h/%5BRapport%5D.pdf) or in this Git repo
+
+Cheerful
