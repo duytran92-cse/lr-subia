@@ -1,0 +1,28 @@
+item {
+    id: 1
+    name: 'ascidie'
+}
+item {
+    id: 2
+    name: 'ascidieBouche'
+}
+item {
+    id: 3
+    name: 'petoncle'
+}
+item {
+    id: 4
+    name: 'moule'
+}
+item {
+    id: 5
+    name: 'huitre'
+}
+item {
+    id: 6
+    name: 'bryozoaire'
+}
+item {
+    id: 7
+    name: 'bryozoaireDense'
+}
